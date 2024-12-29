@@ -1,15 +1,11 @@
 # 👋 안녕하세요!
-저는 손호준(Hojun Son)-isolesty 입니다.🦔
+저는 손호준(Hojun Son)-isolesty 입니다.🦔  
 
 ## About me
-🦔 **게임 개발**을 공부하는 주니어 개발자입니다.
-
-
-
+🦔 **게임 개발**을 공부하는 주니어 개발자입니다
 - 🧮 **수학** 및 **프로그래밍** 문제 해결
 - 💻 다양한 프로젝트 개발
 - 🌱 지속적인 학습과 성장 중!
-
 <!--
 **isolesty22/isolesty22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
