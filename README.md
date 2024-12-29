@@ -1,52 +1,30 @@
 # 👋 안녕하세요!
-저는 손호준(Hojun Son)-isolesty 입니다.🦔  
-
+저는 [손호준(Hojun Son)-isolesty] 입니다. 🦔  
+<br>
 ## About me
-🦔 **게임 개발**을 공부하는 주니어 개발자입니다
-- 🧮 **수학** 및 **프로그래밍** 문제 해결
-- 💻 다양한 프로젝트 개발
-- 🌱 지속적인 학습과 성장 중!
-<!--
-**isolesty22/isolesty22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 안녕하세요! 👋
-
-저는 [**따봉도치**](https://github.com/yourusername)입니다! 🦔  
-**게임 개발자**로서 다음과 같은 분야를 다루고 있습니다:
-
-
-- 🧮 **수학** 및 **프로그래밍** 문제 해결
+**게임 개발**을 위주로 공부하는 주니어 개발자입니다
+- 🧩 **수학** 및 **프로그래밍** 문제 해결
+- 📝 **기술 블로그** 운영
+- 🎯 **쉐이더** 및 **게임 엔진** 공부 중
 - 💻 다양한 프로젝트 개발
 - 🌱 지속적인 학습과 성장 중!
 
----
+<br>
 
-## 주요 기술 스택 🛠
-- **프로그래밍 언어**: Python, JavaScript, C++, ...
-- **프레임워크 및 도구**: React, Node.js, Unity, ...
-- **데이터베이스**: MySQL, MongoDB, ...
+## 🛠 주요 기술
+- **프로그래밍 언어**: C++, C# ...
+- **프레임워크 및 도구**: Unity, ...
+<!-- - 자료구조, 컴퓨터구조, 디자인 패턴, 알고리즘, 운영체제, 시스템 프로그래밍, 쉐이더, 미적분학, 통계학, 선형대수학, direct x 등 -->
+<!-- - **데이터베이스**: MySQL, MongoDB, ...-->
 
----
+<br>
 
-## 현재 진행 중인 프로젝트 🚀
-1. **[Project Name](https://github.com/yourusername/project)**: 설명...
-2. **[Another Project](https://github.com/yourusername/another-project)**: 설명...
+## 💻 프로젝트
+<!-- 1. **[Project Name](https://github.com/yourusername/project)**: 설명...
+2. **[Another Project](https://github.com/yourusername/another-project)**: 설명... -->
 
----
+<br>
 
 ## 저와 연결하기 ✨
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📫 이메일: your.email@example.com
+- 🐦 블로그: https://isolesty.tistory.com
+- 📫 이메일: isolesty0814@gmail.com
