@@ -1,5 +1,5 @@
 # 👋 안녕하세요!
-저는 모든 것을 궁금해하며 탐구하는 [손호준(Hojun Son)-isolesty] 입니다. 🦔  
+저는 수학과 그래픽을 좋아하는 개발자 [손호준(Hojun Son)-isolesty] 입니다. 🦔  
 
 <br>
 
@@ -27,6 +27,6 @@
 
 <br>
 
-## 저와 연결하기 ✨
-- 🐦 블로그: https://isolesty.tistory.com
+## 연결하기 ✨
 - 📫 이메일: isolesty0814@gmail.com
+- 🐦 블로그: https://isolesty.tistory.com
